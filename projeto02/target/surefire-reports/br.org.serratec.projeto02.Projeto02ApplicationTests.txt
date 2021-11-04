@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.org.serratec.projeto02.Projeto02ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.291 s - in br.org.serratec.projeto02.Projeto02ApplicationTests

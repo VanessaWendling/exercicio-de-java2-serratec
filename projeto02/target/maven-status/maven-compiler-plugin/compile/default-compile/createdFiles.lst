@@ -1,0 +1,4 @@
+br\org\serratec\projeto02\controller\AlunoController.class
+br\org\serratec\projeto02\model\Aluno.class
+br\org\serratec\projeto02\Projeto02Application.class
+br\org\serratec\projeto02\testes\ExemploParametro.class
